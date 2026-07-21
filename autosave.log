@@ -1,11 +1,13 @@
 nohup: ignoring input
 🟢 Script de Auto-salvamento iniciado com sucesso!
 💾 Iniciando rotina de salvamento automático...
-warning: adding embedded git repository: Fominhas/crafty-4
-hint: You've added another git repository inside your current repository.
-hint: Clones of the outer repository will not contain the contents of
-hint: the embedded repository and will not know how to obtain it.
-hint: If you meant to add a submodule, use:
+📦 Alterações detectadas! Enviando progresso para o GitHub...
+[main 6aea045] Auto-salvamento automático: 2026-07-21 02:18:47
+ 1 file changed, 12 insertions(+)
+To https://github.com/Matt0820/servidor
+   b27002b..6aea045  main -> main
+✅ Progresso salvo no GitHub com sucesso!
+ meant to add a submodule, use:
 hint:
 hint: 	git submodule add <url> Fominhas/crafty-4
 hint:
@@ -28,3 +30,4 @@ warning: adding embedded git repository: crafty-installer-4.0
 To https://github.com/Matt0820/servidor
    dda13a9..b27002b  main -> main
 ✅ Progresso salvo no GitHub com sucesso!
+💾 Iniciando rotina de salvamento automático...
