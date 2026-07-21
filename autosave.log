@@ -16,3 +16,15 @@ hint: 	git rm --cached Fominhas/crafty-4
 hint:
 hint: See "git help submodule" for more information.
 hint: Disable this message with "git config set advice.addEmbeddedRepo false"
+warning: adding embedded git repository: crafty-installer-4.0
+📦 Alterações detectadas! Enviando progresso para o GitHub...
+[main b27002b] Auto-salvamento automático: 2026-07-21 02:18:09
+ 5 files changed, 72 insertions(+)
+ create mode 160000 Fominhas/crafty-4
+ create mode 100644 autosave.log
+ create mode 160000 crafty-installer-4.0
+ create mode 100755 online.sh
+ create mode 100755 start_server.sh
+To https://github.com/Matt0820/servidor
+   dda13a9..b27002b  main -> main
+✅ Progresso salvo no GitHub com sucesso!
