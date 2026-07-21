@@ -15,13 +15,13 @@ To https://github.com/Matt0820/servidor
    e40737c..14755c8  main -> main
 ✅ Progresso salvo no GitHub com sucesso!
 💾 Iniciando rotina de salvamento automático...
-tory: crafty-installer-4.0
 📦 Alterações detectadas! Enviando progresso para o GitHub...
-[main b27002b] Auto-salvamento automático: 2026-07-21 02:18:09
- 5 files changed, 72 insertions(+)
- create mode 160000 Fominhas/crafty-4
- create mode 100644 autosave.log
- create mode 160000 crafty-installer-4.0
+[main c2ab7f6] Auto-salvamento automático: 2026-07-21 02:23:50
+ 1 file changed, 8 insertions(+), 2 deletions(-)
+To https://github.com/Matt0820/servidor
+   e02eaf2..c2ab7f6  main -> main
+✅ Progresso salvo no GitHub com sucesso!
+ler-4.0
  create mode 100755 online.sh
  create mode 100755 start_server.sh
 To https://github.com/Matt0820/servidor
@@ -41,3 +41,4 @@ To https://github.com/Matt0820/servidor
 To https://github.com/Matt0820/servidor
    14755c8..e02eaf2  main -> main
 ✅ Progresso salvo no GitHub com sucesso!
+💾 Iniciando rotina de salvamento automático...
