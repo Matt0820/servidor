@@ -7,9 +7,8 @@ nohup: ignoring input
 To https://github.com/Matt0820/servidor
    b27002b..6aea045  main -> main
 ✅ Progresso salvo no GitHub com sucesso!
- meant to add a submodule, use:
-hint:
-hint: 	git submodule add <url> Fominhas/crafty-4
+💾 Iniciando rotina de salvamento automático...
+bmodule add <url> Fominhas/crafty-4
 hint:
 hint: If you added this path by mistake, you can remove it from the
 hint: index with:
@@ -31,3 +30,9 @@ To https://github.com/Matt0820/servidor
    dda13a9..b27002b  main -> main
 ✅ Progresso salvo no GitHub com sucesso!
 💾 Iniciando rotina de salvamento automático...
+📦 Alterações detectadas! Enviando progresso para o GitHub...
+[main e40737c] Auto-salvamento automático: 2026-07-21 02:20:41
+ 1 file changed, 8 insertions(+), 5 deletions(-)
+To https://github.com/Matt0820/servidor
+   6aea045..e40737c  main -> main
+✅ Progresso salvo no GitHub com sucesso!
